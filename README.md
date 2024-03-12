@@ -40,6 +40,6 @@ Link: http://localhost/osTicket/index.php
 <strong>From here you can choose Help Topic base on your needs.</strong>
 
 
- <h3>Fill out the form</h3>
+ <h3>Users Can Create An account </h3>
 
-  <img src="images/new_ticket_form.png" alt="new ticket screenshot"/>
+  <img src="images/create_account.png" alt="new account screenshot"/>
