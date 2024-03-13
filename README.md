@@ -43,3 +43,14 @@ Link: http://localhost/osTicket/index.php
  <h3>Users Can Create An account </h3>
 
   <img src="images/create_account.png" alt="new account screenshot"/>
+
+  <h4>User Create Ticket</h4>
+
+  <img src="images/user_ticket.png" alt="new ticket screenshot"/>
+
+
+  ## Agent Dashboard 
+
+   <h4>Agent Issue tickets </h4>
+
+  <img src="images/agent_screen_view_ticket.png" alt="agent dashboard screenshot"/>
