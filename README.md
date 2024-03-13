@@ -59,4 +59,8 @@ Link: http://localhost/osTicket/index.php
 
    <h2>Jane Reply to Piseth Ticket: Example</h2>
 
-  <img src="images/Jane_reply_to_piseth&apos;s_ticket.png" alt="agent dashboard screenshot"/>
+  <img src="images/Jane_reply_to_piseth&apos;s_ticket.png" alt="agent dashboard screenshot"/><br>
+     <h2>Jane Resolved to Piseth Ticket: Example</h2>
+    <li>Closed Tab- Show all the tickets have been closed</li>
+
+  <img src="images/closed_ticket.png" alt="agent closed ticket screenshot"/>
