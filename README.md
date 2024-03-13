@@ -54,3 +54,9 @@ Link: http://localhost/osTicket/index.php
    <h4>Agent Issue tickets </h4>
 
   <img src="images/agent_screen_view_ticket.png" alt="agent dashboard screenshot"/>
+
+
+
+   <h2>Jane Reply to Piseth Ticket: Example</h2>
+
+  <img src="images/Jane_reply_to_piseth&apos;s_ticket.png" alt="agent dashboard screenshot"/>
